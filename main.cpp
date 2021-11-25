@@ -2,9 +2,9 @@
 Dado un string, se calcula el arreglo de substrings y lo muestra ordenado alfabéticamente.
 
 Autores:
-Yusdivia Molina Román
-Jesús Daniel Lara Yamamoto
-Héctor Arturo Noyola Mondragón
+Yusdivia Molina
+Daniel Yamamoto
+Héctor Noyola
 
 Fecha de modificación: 10/09/2021
 */
